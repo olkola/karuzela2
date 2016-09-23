@@ -1,0 +1,40 @@
+
+.carousel {
+	width: 400px;
+	height: 300px;
+	 margin: 0 auto; 
+	overflow:hidden;
+}
+.carousel ul {
+	list-style-type: none;
+	width:2000px;
+	display:inline-block;
+	margin: 0;
+	padding: 0;
+}
+.carousel li {
+	width: 400px;
+	height: 300px;
+	display:inline-block;
+	float:left;
+}
+.image-1 {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PaeoniaSuffruticosa7.jpg/800px-PaeoniaSuffruticosa7.jpg");
+	background-size:cover;
+}
+.image-2 {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Paeonia_suffruticosa2.jpg/800px-Paeonia_suffruticosa2.jpg");
+	background-size:cover;
+}
+.image-3 {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pink_fully_grown_Peony.jpg/800px-Pink_fully_grown_Peony.jpg");
+	background-size:cover;
+}
+.image-4 {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Paeonia_rockii_2011_G2.jpg/800px-Paeonia_rockii_2011_G2.jpg");
+	background-size:cover;
+}
+.image-5 {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Paeonia_%27Walter_Mains%27.jpg/800px-Paeonia_%27Walter_Mains%27.jpg");
+	background-size:cover;
+}
